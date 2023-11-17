@@ -108,57 +108,59 @@ interconnected social and health harms as a result of the war on drugs
 [@stockings2016; @degenhardt2016; @kimmel2020], with many low- and
 middle-income countries imposing racist, classist, and prohibitionist
 drug policies through a continuum of violence that encompasses physical
-and structural assaults [@tinasti2018]. Young people who use drugs
-(YPWUD) in the context of various intersections of age, race, class,
-gender, sexuality, mental health challenges, and involvement in
+and structural assaults [@tinasti2018; @duarte2020]. Young people who
+use drugs (YPWUD) in the context of various intersections of age, race,
+class, gender, sexuality, mental health challenges, and involvement in
 criminalized income generation activities such as sex work often
 experience heightened violence and oppression and worse health and
-social outcomes [@krug2015]. Despite increasing global coverage of harm
-reduction services [@colledge-frisby2023] there remains a lack of
-youth-focused harm reduction services, especially in low- and
-middle-income countries [8]. In general, across these settings, public
-health systems are often characterized by systemic underinvestment and
-deteriorating infrastructures, human resource crises, and corruption
-[9]. Conflicting public health, international donor funding, and law
+social outcomes [@jacobs2020; @delatorre-luque2021; @tinasti2018;
+@krug2015]. Despite increasing global coverage of harm reduction
+services, there remains a lack of youth-focused harm reduction services,
+especially in low- and middle-income countries [@colledge-frisby2023].
+In general, across these settings, public health systems are often
+characterized by systemic under investment and deteriorating
+infrastructures, human resource crises, and corruption [@serebryakovaa].
+Conflicting public health, international donor funding, and law
 enforcement agendas impede the implementation of many evidence-based
 harm reduction programs. The criminalization and moralization of drugs
 and the people who use them powerfully undermines access to those harm
-reduction services that do exist [@wodak2012] \[10\] \[11\]. In places
-where it is possible to access harm reduction programs (usually run by
-non-governmental organizations), YPWUD are disproportionately
-underserved relative to older populations in these contexts.
+reduction services that do exist [@wodak2012; @toumbourou2007]. In
+places where it is possible to access harm reduction programs (usually
+run by non-governmental organizations), YPWUD are disproportionately
+underserved relative to older populations in these contexts
+[@ogundipe2018].
 
 Across the Global South, the war on drugs is too often a violent,
 racist, and classist war on YPWUD in the context of multiple and
-intersecting forms of oppression and limited access to care [@barrett].
-Yet, YPWUD as well as youth-led and youth-inclusive organizations in
-these settings are actively pioneering harm reduction programs to meet
-their needs and the needs of their communities. This commentary is
-authored by YPWUD -- past and present -- from countries throughout the
-Global South, alongside academic and community allies from low- and
-middle-income countries as well as higher income countries. We are a
-heterogeneous group, yet each of us embraces harm reduction as a set of
-ideological principles and pragmatic strategies rooted in social and
-health justice and a commitment to human rights, including the right to
-health for all people [@pauly2008]. We believe that harm reduction is
-characterised by an absence of judgement towards drug use and respect
-for an individual's choice to use drugs [@zampini2018] [14]. Since 2009,
-the World Health Organisation has provided a list of harm reduction
-interventions for the prevention, treatment and care of people who
-inject drugs and are living with or at risk of HIV, including needle
-distribution and exchange programs, opioid agonist therapy, and HIV
-testing and treatment programs (WHO, 2009). However, we argue that harm
-reduction programming for people who use drugs, including YPWUD, must
-extend beyond HIV prevention, testing and treatment. Programming must
-include interventions such as the distribution of a range of supplies
-(not just needles -- for example, safer smoking kits), take-home
-naloxone (the opioid overdose antidote) programs, drug checking
-services, drug consumption spaces, and peer-led information sharing,
-support, and advocacy [@colledge-frisby2023]. Unfortunately, across many
-Global South settings, donor funding has been insufficient to support
-this kind of comprehensive harm reduction programming, including for
-YPWUD \[9\] (Harm Reduction International, 20XX funding reference). We
-have therefore taken matters into our own hands, in some cases despite
+intersecting forms of oppression and limited access to care
+[@daniels2021] . Yet, YPWUD as well as youth-led and youth-inclusive
+organizations in these settings are actively pioneering harm reduction
+programs to meet their needs and the needs of their communities. This
+commentary is authored by YPWUD -- past and present -- from countries
+throughout the Global South, alongside academic and community allies
+from low- and middle-income countries as well as higher income
+countries. We are a heterogeneous group, yet each of us embraces harm
+reduction as a set of ideological principles and pragmatic strategies
+rooted in social and health justice and a commitment to human rights,
+including the right to health for all people \[@pauly2008\]. We believe
+that harm reduction is characterised by an absence of judgement towards
+drug use and respect for an individual's choice to use drugs
+[@zampini2018]. Since 2009, the World Health Organisation has provided a
+list of harm reduction interventions for the prevention, treatment and
+care of people who inject drugs and are living with or at risk of HIV,
+including needle distribution and exchange programs, opioid agonist
+therapy, and HIV testing and treatment programs
+[@worldhealthorganization2009]. However, we argue that harm reduction
+programming for people who use drugs, including YPWUD, must extend
+beyond HIV prevention, testing and treatment. Programming must include
+interventions such as the distribution of a range of supplies (not just
+needles -- for example, safer smoking kits), take-home naloxone (the
+opioid overdose antidote) programs, drug checking services, drug
+consumption spaces, and peer-led information sharing, support, and
+advocacy. Unfortunately, across many Global South settings, donor
+funding has been insufficient to support this kind of comprehensive harm
+reduction programming, including for YPWUD \[@serebryakova\]. We have
+therefore taken matters into our own hands, in some cases despite
 tremendous risks to our safety and the safety of our communities.
 
 The purpose of this commentary is to further ignite much needed
@@ -201,55 +203,55 @@ intersections of age, gender, sexual orientation, class, race, human
 immunodeficiency virus (HIV) status, and other dimensions of
 positionality are mediated by particular configurations of power and
 political economy to shape these social categories and lived experiences
-\[4\]. Does it make sense to talk about young people and youth as those
-under twenty-four or twenty-nine years of age, when many individuals
-continue to strongly identify with these categories -- and with youth
-drug user activism and movements -- well into their thirties, often due
-to entrenched, shared circumstances of precarity as well as shared
-visions for possible solutions [@canêdo2022; @stowe2022]? Conversely, do
-age-definitions of young people and youth make sense when referring to
-those for whom poverty, lack of education, unemployment, violence,
-migration, HIV, and other difficulties have forced them to move directly
-from childhood to adulthood, without the possibility of experiencing
-youth as a period of transition or activism and power [@barrett]?
-Similarly, it may not make sense to talk about a Global South composed
-of countries and regions in Africa, Latin America, and parts of Asia
-that meet certain criteria according to the World Bank income-per-capita
-index, when many so-called "Global North" settings are home to
-populations experiencing similar levels of entrenched poverty and
-structural oppression, also as a result of historical and ongoing
-processes of colonialism and capitalism \[15\] (Cooper 2020).
-Recognizing the limitations of this language, in this commentary we have
-chosen to use the term Global South (rather than listing out a number of
-discrete countries and regions in various instances) in order to
-emphasize some of the common and disproportionate impacts of the war on
-drugs on YPWUD across low- and middle-income countries \[18\]. We use
-the term young people to mark ourselves out as a unique demographic with
-specific harm reduction priorities, needs, and desires that is
-simultaneously characterized by fluidity of meaning and association not
-necessarily determined by numerical age.
+[@duarte2020]. Does it make sense to talk about young people and youth
+as those under twenty-four or twenty-nine years of age, when many
+individuals continue to strongly identify with these categories -- and
+with youth drug user activism and movements -- well into their thirties,
+often due to entrenched, shared circumstances of precarity as well as
+shared visions for possible solutions [@canêdo2022; @stowe2022]?
+Conversely, do age-definitions of young people and youth make sense when
+referring to those for whom poverty, lack of education, unemployment,
+violence, migration, HIV, and other difficulties have forced them to
+move directly from childhood to adulthood, without the possibility of
+experiencing youth as a period of transition or activism and power
+[@dambruoso2022]? Similarly, it may not make sense to talk about a
+Global South composed of countries and regions in Africa, Latin America,
+and parts of Asia that meet certain criteria according to the World Bank
+income-per-capita index, when many so-called "Global North" settings are
+home to populations experiencing similar levels of entrenched poverty
+and structural oppression, also as a result of historical and ongoing
+processes of colonialism and capitalism [@buxton2020]. Recognizing the
+limitations of this language, in this commentary we have chosen to use
+the term Global South (rather than listing out a number of discrete
+countries and regions in various instances) in order to emphasize some
+of the common and disproportionate impacts of the war on drugs on YPWUD
+across low- and middle-income countries [@buxton2020]. We use the term
+young people to mark ourselves out as a unique demographic with specific
+harm reduction priorities, needs, and desires that is simultaneously
+characterized by fluidity of meaning and association not necessarily
+determined by numerical age.
 
 ## Shared Challenges {#sec-challenges}
 
 There is a severe lack of data on the situation of YPWUD in the Global
-South \[19\]. What we do know is that those between the ages of 14 and
-34 account for more than one third of the population in low-income
-countries (UN 2019), and rates of substance use are high and climbing
-among this age range (UNODC 2018). YPWUD in the Global South are
+South [@doyle2022]. What we do know is that those between the ages of 14
+and 34 account for more than one third of the population in low-income
+countries, and rates of substance use are high and climbing among this
+age range[@jumbe2021; @david2023]. YPWUD in the Global South are
 vulnerable to a myriad of social and health harms (exacerbated by the
 COVID-19 pandemic), including blood-borne infections (e.g. HIV, HCV),
 fatal and non-fatal opioid involved overdose, skin and soft tissue
 infections, police violence and extrajudicial murder and mass
-incarceration [@degenhardt2016; @hall2016; @scheim2020].
+incarceration [@jumbe2021; @degenhardt2016; @hall2016; @scheim2020].
 
-Global coverage of harm reduction interventions is suboptimal
-[@colledge-frisby2023], but this is particularly the case in lower- and
-middle-income countries (WHO, 2021). For example, the Global State of
-Harm Reduction Report (2020) highlights that only fourteen out of
-twenty-five countries or regions in these parts of the world have
-existing needle exchange programs (HRI, 2020). Countries or regions that
-do have needle exchange programs generally also provide opioid agonist
-therapy, such as methadone. However, even in these settings, life-saving
+Global coverage of harm reduction interventions is suboptimal , but this
+is particularly the case in lower- and middle-income countries
+[@colledge-frisby2023]. For example, the Global State of Harm Reduction
+Report [@harmreductioninternational2020] highlights that only fourteen
+out of twenty-five countries or regions in these parts of the world have
+existing needle exchange programs. Countries or regions that do have
+needle exchange programs generally also provide opioid agonist therapy,
+such as methadone. However, even in these settings, life-saving
 interventions such as drug consumption spaces and take-home naloxone
 programs remain largely unavailable.
 
@@ -259,16 +261,17 @@ harm reduction services due to hostile and militarized governments,
 systemic corruption, violent policing, punitive laws and forced
 treatment or rehabilitation models, precarious and conditional state and
 international funding, and entrenched stigma and oppression
-[@desjarlais2013; @chang2021]. High levels of unemployment, poverty, and
-homelessness often combine with the criminalization of drug use (in some
-cases via the death penalty and extrajudicial killings), sex work, and
-sexual and gender identities to produce egregious human rights
-violations and make harm reduction organising and action difficult, and
-sometimes impossible. In a system of prohibition, the Global South is
-also disproportionately impacted by the various negative effects of the
+[@dambruoso2022; @desjarlais2013; @krug]. High levels of unemployment,
+poverty, and homelessness often combine with the criminalization of drug
+use (in some cases via the death penalty and extrajudicial killings),
+sex work, and sexual and gender identities to produce egregious human
+rights violations and make harm reduction organising and action
+difficult, and sometimes impossible [@dambruoso2022; @debeck2017;
+@rekart2005]. In a system of prohibition, the Global South is also
+disproportionately impacted by the various negative effects of the
 global demand for illicit drugs, which particularly impacts countries in
 Latin America, South East Asia and the Middle East and North Africa, as
-well as in transit regions such as West Africa.
+well as in transit regions such as West Africa. [@wdr2022]
 
 ## Success Stories {#sec-success}
 
@@ -288,15 +291,15 @@ globally.
 A majority of empowerment efforts directed towards women who use drugs
 are under-resourced, patriarchal, or fail to consider how complex
 intersections of age, gender, class, cultural, and geographic contexts
-shape drug use \[25\]. In 2022, the community-led organization Women in
-Response to HIV/AIDS and Drug Addiction (WRADA) set out to build a
-network of young women who use drugs in Kenya, Uganda and Tanzania with
-support from the International Network of People who use Drugs. This
-multi-year community initiative involves bi-monthly online peer support
-forums using Zoom. Young women meet on Zoom to discuss and document
-regional harm reduction challenges and emerging trends in drug use and
-sex work and develop sexual and reproductive health and harm reduction
-information tailored to their communities. The project fosters
+shape drug use [@lambdin2013]. In 2022, the community-led organization
+Women in Response to HIV/AIDS and Drug Addiction (WRADA) set out to
+build a network of young women who use drugs in Kenya, Uganda and
+Tanzania with support from the International Network of People who use
+Drugs. This multi-year community initiative involves bi-monthly online
+peer support forums using Zoom. Young women meet on Zoom to discuss and
+document regional harm reduction challenges and emerging trends in drug
+use and sex work and develop sexual and reproductive health and harm
+reduction information tailored to their communities. The project fosters
 empowerment by increasing the knowledge, skills and capacities of
 participants, growing grassroots harm reduction research and advocacy,
 developing context-driven approaches to promoting human rights, and
@@ -316,32 +319,33 @@ drugs in East Africa.
 In South Africa, YPWUD are an underserved population frequently exposed
 to the social and health harms of poverty, unstable housing and
 homelessness, and multiple forms of physical and structural violence
-\[26, 27\]. Heroin use and overdose are increasingly common among youth
-\[28\]. While South Africa's essential medicines list includes naloxone
-for the management of overdose, to date no state-sponsored naloxone
-distribution programmes exist \[29\]. To improve access to this
-lifesaving overdose antidote among YPWUD and others, in 2021 the South
-African Network of People Who Use Drugs (SANPUD) piloted the country's
-first (and to date only) take-home naloxone (THN) program. The program
-was piloted in Cape Town, Tshwane, and eThekwini, with two workshops
-held in each city over a two-week period. It involved peer-delivered
-overdose education, including practical training on the administration
-of naloxone. Participants received a naloxone kit with four ampoules of
-naloxone (0.4mg/ 1ml) and required medical equipment, as well as a
-step-by-step guide to responding to and managing opioid overdoses. The
-design of these materials was informed by several community advisory
-groups that included youth-led and -focused groups. During the pilot,
-three opioid overdoses were successfully reversed. Unfortunately, lack
-of state funding and political buy-in has halted the continuation and
-expansion of the program. However, the success of the pilot represents
-an important moment in the fight against racist and violent drug
-policies that continue to criminalize and disproportionately burden
-YPWUD, and in particular Black and Brown YPWUD. The successful co-design
-and delivery of a youth-led THN program underscores growing calls for
-non-restrictive state and NGO funding that can be used to support
-evidence-based interventions beyond a narrow set of prescriptive
-interventions and programs (e.g., HIV prevention programs focused on
-people who inject drugs) \[29\].
+[@dambruoso2022; @peltzer2018]. Heroin use and overdose are increasingly
+common among youth [@harker2020]. While South Africa's essential
+medicines list includes naloxone for the management of overdose, to date
+no state-sponsored naloxone distribution programmes exist
+[@scheibe2020]. To improve access to this lifesaving overdose antidote
+among YPWUD and others, in 2021 the South African Network of People Who
+Use Drugs (SANPUD) piloted the country's first (and to date only)
+take-home naloxone (THN) program. The program was piloted in Cape Town,
+Tshwane, and eThekwini, with two workshops held in each city over a
+two-week period. It involved peer-delivered overdose education,
+including practical training on the administration of naloxone.
+Participants received a naloxone kit with four ampoules of naloxone
+(0.4mg/ 1ml) and required medical equipment, as well as a step-by-step
+guide to responding to and managing opioid overdoses. The design of
+these materials was informed by several community advisory groups that
+included youth-led and -focused groups. During the pilot, three opioid
+overdoses were successfully reversed. Unfortunately, lack of state
+funding and political buy-in has halted the continuation and expansion
+of the program. However, the success of the pilot represents an
+important moment in the fight against racist and violent drug policies
+that continue to criminalize and disproportionately burden YPWUD, and in
+particular Black and Brown YPWUD. The successful co-design and delivery
+of a youth-led THN program underscores growing calls for non-restrictive
+state and NGO funding that can be used to support evidence-based
+interventions beyond a narrow set of prescriptive interventions and
+programs (e.g., HIV prevention programs focused on people who inject
+drugs) [@scheibe2020].
 
 ## Nepal
 
@@ -349,16 +353,16 @@ people who inject drugs) \[29\].
 
 In 2019, a government survey revealed that there are over 130,000 people
 who use drugs in Nepal, with young people (defined as \< 30 years of
-age) accounting for more than two-thirds of this figure (Government of
-Nepal, 2019). Young people who inject drugs in this setting are
-disproportionately vulnerable to various social, health, and legal harms
-(UNODC, 2017). In response, in 2022 five community organizations (YKP
-Lead, Sathi Samuha, Recovering Nepal, Youth RISE, Youth LEAD) came
-together to pilot a new training and service delivery project to better
-address the needs of young people who inject drugs. As a first step,
-focus group discussions with youth and in-depth interviews with service
-providers led to the identification of shared problems and possible
-healthcare and harm reduction-oriented solutions, including the
+age) accounting for more than two-thirds of this figure [@humanri].
+Young people who inject drugs in this setting are disproportionately
+vulnerable to various social, health, and legal harms [@bhandari2021;
+@kakchapati2018; @substanc]. In response, in 2022 five community
+organizations (YKP Lead, Sathi Samuha, Recovering Nepal, Youth RISE,
+Youth LEAD) came together to pilot a new training and service delivery
+project to better address the needs of young people who inject drugs. As
+a first step, focus group discussions with youth and in-depth interviews
+with service providers led to the identification of shared problems and
+possible healthcare and harm reduction-oriented solutions, including the
 identification of key areas for outreach throughout the Kathmandu
 Valley. Using this information, twenty-two service providers from
 organizations providing harm reduction services in Kathmandu valley were
@@ -381,29 +385,29 @@ people who inject drugs.
 
 In Mexico, young people are increasingly exposed to the negative impacts
 of the country's militarized and violent approach to addressing drug use
-and trafficking, resulting in regular human rights violations. Despite
-these conditions, international donor funding continues to support
-"tough on crime" rhetoric and prioritise law enforcement interventions
-over evidenced-based healthcare and harm reduction approaches. In
-response, YPWUD have mobilised to hold the now annual Support Don't
-Punish Festival as a means of regularly engaging with each other,
-sharing harm reduction knowledge and challenging punitive drug policies.
-The festival is held each year on June 26th as a community response to
-commemorate the UN international day against the illicit trafficking and
-abuse of drugs. It is delivered by Instituto RIA and ReverdeSer
-Colectivo and provides a safe, non-judgemental space for young people to
-fight for their human rights. Festival activities include youth-led
-marches, harm reduction information booths, showcases of youth
-entrepreneurship, and performances by bands opposed to the oppression of
-YPWUD. During the COVID-19 pandemic, the festival transitioned to a
-virtual event, expanding its reach to include multiple countries.
-Throughout the rest of the year, the festival also organizes other
-activities around the country, such as collective murals, art exhibits,
-social media content, and harm reduction information materials,
-including entertaining videos promoting drug use best practices. The
-Support Don't Punish Festival has become a vital platform for harm
-reduction knowledge exchange, advocacy and challenging punitive drug
-policies among YPWUD in Mexico and beyond.
+and trafficking, resulting in regular human rights
+violations[@hernándezcastillo2019; @morales2020]. Despite these
+conditions, international donor funding continues to support "tough on
+crime" rhetoric and prioritise law enforcement interventions over
+evidenced-based healthcare and harm reduction approaches. In response,
+YPWUD have mobilised to hold the now annual Support Don't Punish
+Festival as a means of regularly engaging with each other, sharing harm
+reduction knowledge and challenging punitive drug policies. The festival
+is held each year on June 26th as a community response to commemorate
+the UN international day against the illicit trafficking and abuse of
+drugs. It is delivered by Instituto RIA and ReverdeSer Colectivo and
+provides a safe, non-judgemental space for young people to fight for
+their human rights. Festival activities include youth-led marches, harm
+reduction information booths, showcases of youth entrepreneurship, and
+performances by bands opposed to the oppression of YPWUD. During the
+COVID-19 pandemic, the festival transitioned to a virtual event,
+expanding its reach to include multiple countries. Throughout the rest
+of the year, the festival also organizes other activities around the
+country, such as collective murals, art exhibits, social media content,
+and harm reduction information materials, including entertaining videos
+promoting drug use best practices. The Support Don't Punish Festival has
+become a vital platform for harm reduction knowledge exchange, advocacy
+and challenging punitive drug policies among YPWUD in Mexico and beyond.
 
 ## Columbia
 
@@ -412,45 +416,44 @@ policies among YPWUD in Mexico and beyond.
 Drug checking services in Colombia have been implemented to decrease
 exposure to the growing harms associated with an unregulated drug
 supply. In general, drug checking services have multiple aims: to
-conduct chemical analysdrug-chis of substances of concern submitted
-directly by the public; to return results to the service user; to
-provide a platform for tailored (rather than general) information
-exchange between service users and the service; and to ultimately reduce
-harms (Barratt & Measham, 2022). Although reduction of harm via changes
-in drug using practices at the point of consumption is key to the
-success of drug checking, these services are also highly valued for
-generating real-time information about drug market trends that can be
-actioned rapidly via text message and social media alerts [30]. With
-volunteers and harm reduction experts located in Bogotá, Medellin, and
-Cali, the non-governmental organization Acción Técnica Social
-implemented a drug checking service beginning in 2013 through a project
-entitled Échele Cabeza Cuando se de en la Cabeza (EC; translated as Use
-Your Head Before It Goes to Your Head) [@díazmoreno2022]. Since its
-inception, EC has involved YPWUD and used innovative harm reduction
-communication strategies to promote self- and community-care: protests,
-street art, posters, handouts, flyers, videos, memes, and perhaps most
-importantly, maintaining a significant presence on social media. EC
-began by offering drug checking services on-site at raves, festivals,
-and nightlife events; in 2016, fixed-site drug checking services were
-introduced \[@díazmoreno2022. Wherever drug checking services are
-provided, YPWUD are provided with tailored information and support
-backed by scientific evidence. Based on the testing done across these
-settings, EC regularly posts to social media about substances, test
-results, and alerts, supporting real time dissemination of critical harm
-reduction information. EC has demonstrated the importance of monitoring
-the drug market and building online and in-person networks with people
-who use drugs, including YPWUD. Unfortunately, despite the effectiveness
-of this program and some support from the Mayor's Office of Bogotá and
-the Columbian Drug Observatory, financial restrictions continue to limit
-the reach of the program @díazmoreno2022.
+conduct chemical analysis of substances of submitted directly by the
+public; to return results to the service user; to provide a platform for
+tailored (rather than general) information exchange between service
+users and the service; and to ultimately reduce harms [@barratt2022].
+Although reduction of harm via changes in drug using practices at the
+point of consumption is key to the success of drug checking, these
+services are also highly valued for generating real-time information
+about drug market trends that can be actioned rapidly via text message
+and social media alerts [@brien2023] With volunteers and harm reduction
+experts located in Bogotá, Medellin, and Cali, the non-governmental
+organization Acción Técnica Social implemented a drug checking service
+beginning in 2013 through a project entitled Échele Cabeza Cuando se de
+en la Cabeza (EC; translated as Use Your Head Before It Goes to Your
+Head) \[@díazmoreno2022\]. Since its inception, EC has involved YPWUD
+and used innovative harm reduction communication strategies to promote
+self- and community-care: protests, street art, posters, handouts,
+flyers, videos, memes, and perhaps most importantly, maintaining a
+significant presence on social media. EC began by offering drug checking
+services on-site at raves, festivals, and nightlife events; in 2016,
+fixed-site drug checking services were introduced [@díazmoreno2022].
+Wherever drug checking services are provided, YPWUD are provided with
+tailored information and support backed by scientific evidence. Based on
+the testing done across these settings, EC regularly posts to social
+media about substances, test results, and alerts, supporting real time
+dissemination of critical harm reduction information. EC has
+demonstrated the importance of monitoring the drug market and building
+online and in-person networks with people who use drugs, including
+YPWUD. Unfortunately, despite the effectiveness of this program and some
+support from the Mayor's Office of Bogotá and the Columbian Drug
+Observatory, financial restrictions continue to limit the reach of the
+program [@díazmoreno2022].
 :::
-
 
 ## Calls to Action
 
 Drawing on our discussion of shared and challenges and success stories,
-we now advance X key recommendations to advance harm reduction for YPWUD
-within and across Global South settings:
+we now advance seven key recommendations to advance harm reduction for
+YPWUD within and across Global South settings:
 
 1.  YPWUD from across the global south must be meaningfully involved in
     harm reduction policy, programming, and activism. We should be at
@@ -511,16 +514,10 @@ within and across Global South settings:
     compensated for their time and expertise when working on these kinds
     of projects.
 
-The analysis was undertaken in using `R` version
-`r paste0(version$major, "." ,version$minor)` using the following
-packages: quarto v. 1.3 [@quarto] and rmarkdown v. 2.25 [@rmarkdown].
-The code for this analysis is available on request from the
-corresponding author. The data supporting the findings of this study are
-available within the article and its Supporting information. The
-analysis was not pre-registered and the results should be considered
-exploratory.
-
 ## Acknowledgements
+
+The authors acknowledge Alissa Greer (Simon Fraser University) and
+Gloria Lai for their input to the manuscript.
 
 ## Declarations
 
@@ -535,8 +532,8 @@ project which was part of the 4Youth Consortium and funded by the Robert
 Carr Fund. DF is supported by a Micheal Smith Health Research BC Scholar
 Award. The funders had no role in developing the ideas and information,
 structuring the article and identifying the examples within the article.
-MJS, EK, FS and DF were responsible for the decision to submit this
-article for publication.
+MJS, FS and DF were responsible for the decision to submit this article
+for publication.
 
 \pagebreak
 
@@ -549,4 +546,4 @@ article for publication.
 
 \pagebreak
 
-## Supplementary Material {#sec-supp-material}
+##  {#sec-supp-material}
