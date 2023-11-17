@@ -10,3 +10,4 @@ format:
     comments:
       hypothesis: true
   docx: default
+  pdf: default
