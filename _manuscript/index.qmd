@@ -592,35 +592,6 @@ my.pal2 = brewer.pal(n=7, "GnBu")
 \pagebreak
 
 
-```{r}
-
-
-# Load the qrcode package
-# library(qrcode)
-# library(officer)
-# 
-# 
-# 
-# qr_code("https://mx-jx.github.io/YPWUD/")
-# qr <- qr_code("https://mx-jx.github.io/YPWUD/", ecl = "M")
-# qr
-# plot(qr,  col = c("black", "orange"))
-
-# # Generate the QR code
-# qrcode_data <- qr_code(pdf_url)
-# 
-# # Save the QR code as an image file
-# png("ypwud_qr.png")
-# 
-# 
-# # Generate the Q ciss
-# plot(qrcode_data, main = "", fg = "white", bg = "black", quiet = TRUE)
-```
-
-```{r, echo =  FALSE}
-# 
-# plot(qr,  col = c("black", "orange"))
-```
 
 
 
