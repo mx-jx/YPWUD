@@ -544,7 +544,7 @@ library(mapview)
 library(RColorBrewer)
 library(viridis)
 library(utils)
-library("htmlwidgets")
+library(htmlwidgets)
 
 
 # Download the shapefile. (note that I store it in a folder called DATA. You have to change that if needed.)
@@ -577,7 +577,8 @@ my.pal2 = brewer.pal(n=7, "GnBu")
 
 # Interactive map of ETHOS locations across Australia 
 
- e <- mapview(shape, alpha.regions = 0, colour = "red", lwd = 2, layer.name = "Country") + 
+ 
+e <- mapview(shape, alpha.regions = 0, colour = "red", lwd = 2, layer.name = "Country") + 
   mapview(ypwud, zcol="harm_reduction", layer.name = "Harm Reduction Interventions", col.regions = my.pal2) 
  # mapview(ethos.loc, zcol="recruitment", layer.name = "No. of participants recruited")
 
@@ -612,9 +613,10 @@ remove_controls = c("homeButton", "layersControl"))
 mapshot(e, url = paste0(getwd(), "/map.html"),
 file = paste0(getwd(), "/map.png"))
 
+e
 ```
 
-<iframe src="map.html" height="500" width="700"></iframe>
+
 
 You can explore this map [as its own web page here](map.html)
 
