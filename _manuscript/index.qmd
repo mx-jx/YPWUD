@@ -543,6 +543,9 @@ library(leafpop)
 library(mapview)
 library(RColorBrewer)
 library(viridis)
+library(utils)
+library("htmlwidgets")
+
 
 # Download the shapefile. (note that I store it in a folder called DATA. You have to change that if needed.)
 # download.file("http://thematicmapping.org/downloads/TM_WORLD_BORDERS_SIMPL-0.3.zip" , destfile="~/GitHub/YPWUD/world_shape_file.zip")
@@ -574,11 +577,46 @@ my.pal2 = brewer.pal(n=7, "GnBu")
 
 # Interactive map of ETHOS locations across Australia 
 
-  mapview(shape, alpha.regions = 0, colour = "red", lwd = 2, layer.name = "Country") + 
+ e <- mapview(shape, alpha.regions = 0, colour = "red", lwd = 2, layer.name = "Country") + 
   mapview(ypwud, zcol="harm_reduction", layer.name = "Harm Reduction Interventions", col.regions = my.pal2) 
  # mapview(ethos.loc, zcol="recruitment", layer.name = "No. of participants recruited")
 
+library(utils)
+
+
+#   html_fl = tempfile(fileext = ".html")
+#   png_fl = tempfile(fileext = ".png")
+#   ## create standalone .html
+#   mapshot(e, url = html_fl)
+#   browseURL(html_fl)
+#   
+#   # Export as HTML file
+# saveWidget(e, 'ypwud.html', selfcontained = FALSE)
+
+
+# if(!webshot::is_phantomjs_installed()){
+#   webshot::install_phantomjs()
+# }
+
+
+## create standalone .html
+mapshot(e, url = paste0(getwd(), "/map.html"))
+
+## create standalone .png; temporary .html is removed automatically unless
+## 'remove_url = FALSE' is specified
+mapshot(e, file = paste0(getwd(), "/map.png"))
+mapshot(e, file = paste0(getwd(), "/map.png"),
+remove_controls = c("homeButton", "layersControl"))
+
+## create .html and .png
+mapshot(e, url = paste0(getwd(), "/map.html"),
+file = paste0(getwd(), "/map.png"))
+
 ```
+
+<iframe src="map.html" height="500" width="700"></iframe>
+
+You can explore this map [as its own web page here](map.html)
 
 \pagebreak
 
